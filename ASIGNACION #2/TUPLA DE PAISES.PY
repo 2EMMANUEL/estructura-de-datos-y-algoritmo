@@ -1,0 +1,2 @@
+paises=("REPUBLICA DOMINICANA", "PUERTO RICO", "ESPAÑA", "MEXICO", "EL SALVADOR")
+print("EL TERCER PAIS ES",paises[2])
