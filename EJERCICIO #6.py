@@ -1,0 +1,11 @@
+#6.	Escribe un programa que pida al usuario dos números y muestre la suma, resta, multiplicación y división de esos números.#
+N1 = int (input("INGRESE EL PRIMER NUMERO "))
+N2 = int (input("INGRESE EL SEGUNDO NUMERO "))
+R1 =  (N1 + N2)
+R4 =  (N1 - N2)
+R2 =  (N1 * N2)
+R3 =  (N1 / N2)
+print ("EL RESULTADO DE LA SUMA ES ", R1)
+print ("EL RESULTADO DE LA RESTA ES ", R4)
+print ("EL RESULTADO DE LA MULTIPLICACION ES ", R2)
+print ("EL RESULTADO DE LA DIVISION ES ", R3)
